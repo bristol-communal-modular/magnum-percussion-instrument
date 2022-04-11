@@ -1,4 +1,4 @@
-# Bristol Communal Modular Drum Synth (better name tbd)
+# The Magnum Percussion Instrument
 
 A drum synthesiser created by members of the Bristol Communal Modular group
 

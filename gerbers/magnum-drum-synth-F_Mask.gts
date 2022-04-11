@@ -1,12 +1,12 @@
 %TF.GenerationSoftware,KiCad,Pcbnew,(6.0.0-0)*%
-%TF.CreationDate,2022-04-11T21:10:03+01:00*%
-%TF.ProjectId,bcm-drum-synth,62636d2d-6472-4756-9d2d-73796e74682e,r01*%
+%TF.CreationDate,2022-04-11T21:39:17+01:00*%
+%TF.ProjectId,magnum-drum-synth,6d61676e-756d-42d6-9472-756d2d73796e,r01*%
 %TF.SameCoordinates,Original*%
 %TF.FileFunction,Soldermask,Top*%
 %TF.FilePolarity,Negative*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW (6.0.0-0)) date 2022-04-11 21:10:03*
+G04 Created by KiCad (PCBNEW (6.0.0-0)) date 2022-04-11 21:39:17*
 %MOMM*%
 %LPD*%
 G01*

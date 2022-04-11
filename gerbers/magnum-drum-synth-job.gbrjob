@@ -5,12 +5,12 @@
       "Application": "Pcbnew",
       "Version": "(6.0.0-0)"
     },
-    "CreationDate": "2022-04-11T21:10:04+01:00"
+    "CreationDate": "2022-04-11T21:39:17+01:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
-      "Name": "bcm-drum-synth",
-      "GUID": "62636d2d-6472-4756-9d2d-73796e74682e",
+      "Name": "magnum-drum-synth",
+      "GUID": "6d61676e-756d-42d6-9472-756d2d73796e",
       "Revision": "r01"
     },
     "Size": {
@@ -34,37 +34,37 @@
   ],
   "FilesAttributes": [
     {
-      "Path": "bcm-drum-synth-F_Cu.gtl",
+      "Path": "magnum-drum-synth-F_Cu.gtl",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "bcm-drum-synth-B_Cu.gbl",
+      "Path": "magnum-drum-synth-B_Cu.gbl",
       "FileFunction": "Copper,L2,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "bcm-drum-synth-F_Silkscreen.gto",
+      "Path": "magnum-drum-synth-F_Silkscreen.gto",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "bcm-drum-synth-B_Silkscreen.gbo",
+      "Path": "magnum-drum-synth-B_Silkscreen.gbo",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "bcm-drum-synth-F_Mask.gts",
+      "Path": "magnum-drum-synth-F_Mask.gts",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "bcm-drum-synth-B_Mask.gbs",
+      "Path": "magnum-drum-synth-B_Mask.gbs",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "bcm-drum-synth-Edge_Cuts.gm1",
+      "Path": "magnum-drum-synth-Edge_Cuts.gm1",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     }
