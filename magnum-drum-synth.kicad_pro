@@ -340,7 +340,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "bcm-drum-synth.kicad_pro",
+    "filename": "magnum-drum-synth.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -457,6 +457,18 @@
     [
       "63b71289-329c-4d36-a96b-ca16d38e28c2",
       ""
+    ],
+    [
+      "f2a9983c-998c-48f9-8c6a-a8434c924179",
+      "Filter"
+    ],
+    [
+      "32f36dff-8662-485b-aca6-8ee96ddb3fbd",
+      "OutputVCA"
+    ],
+    [
+      "ad4c3087-473c-478a-8ad4-a1491b332c93",
+      "Power"
     ]
   ],
   "text_variables": {}
