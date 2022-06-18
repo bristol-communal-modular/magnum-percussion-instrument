@@ -15,6 +15,17 @@ Specifically :-
 Many thanks to the people that designed those and made them open.
 
 
+## Spec
+
+*Finish this*
+
+### Power
+
+30mA on +12v
+30mA on -12v
+
+Doesn't use 5v
+
 ## Contact
 
 Come down the Bristol Hackspace on a Tuesday night to say hello.
