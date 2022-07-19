@@ -5755,8 +5755,8 @@
   (symbol (lib_id "Device:R") (at 175.26 34.29 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 33c83fc5-c4d0-450d-8557-408764e81e50)
-    (property "Reference" "R15" (id 0) (at 175.26 29.3075 90))
-    (property "Value" "22k" (id 1) (at 175.26 32.0826 90))
+    (property "Reference" "R15" (id 0) (at 175.26 29.5742 90))
+    (property "Value" "4k7" (id 1) (at 175.26 32.1111 90))
     (property "Footprint" "rumblesan-standard-parts:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" (id 2) (at 175.26 36.068 90)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -7151,15 +7151,15 @@
   (symbol (lib_id "Device:C") (at 33.02 38.1 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 8591861f-2b7e-410e-8cfd-e20f7fcb6cbb)
-    (property "Reference" "C4" (id 0) (at 33.02 31.9745 90))
-    (property "Value" "47nF" (id 1) (at 33.02 34.7496 90))
+    (property "Reference" "C4" (id 0) (at 33.02 32.2412 90))
+    (property "Value" "100nF" (id 1) (at 33.02 34.7781 90))
     (property "Footprint" "rumblesan-standard-parts:C_Rect_L7.0mm_W3.5mm_P5.00mm" (id 2) (at 36.83 37.1348 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 33.02 38.1 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Spec" "ceramic C0G" (id 4) (at 33.02 38.1 0)
+    (property "Spec" "ceramic X7R" (id 4) (at 33.02 38.1 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Tolerance" "5%" (id 5) (at 33.02 38.1 0)
@@ -7349,7 +7349,7 @@
     (property "Datasheet" "~" (id 3) (at 60.96 199.39 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Spec" "ceramic C0G" (id 4) (at 60.96 199.39 0)
+    (property "Spec" "ceramic X7R" (id 4) (at 60.96 199.39 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Tolerance" "5%" (id 5) (at 60.96 199.39 0)
@@ -7360,10 +7360,10 @@
   )
 
   (symbol (lib_id "Device:R") (at 81.28 179.07 270) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom yes) (on_board yes)
     (uuid 963dd436-ddf3-4162-9f66-c28717ca731d)
-    (property "Reference" "R12" (id 0) (at 81.28 184.0525 90))
-    (property "Value" "220k" (id 1) (at 81.28 181.2774 90))
+    (property "Reference" "R12" (id 0) (at 81.28 184.15 90))
+    (property "Value" "100k" (id 1) (at 81.28 181.61 90))
     (property "Footprint" "rumblesan-standard-parts:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" (id 2) (at 81.28 180.848 90)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -9099,7 +9099,7 @@
       (reference "C3") (unit 1) (value "47nF") (footprint "rumblesan-standard-parts:C_Rect_L7.0mm_W3.5mm_P5.00mm")
     )
     (path "/8591861f-2b7e-410e-8cfd-e20f7fcb6cbb"
-      (reference "C4") (unit 1) (value "47nF") (footprint "rumblesan-standard-parts:C_Rect_L7.0mm_W3.5mm_P5.00mm")
+      (reference "C4") (unit 1) (value "100nF") (footprint "rumblesan-standard-parts:C_Rect_L7.0mm_W3.5mm_P5.00mm")
     )
     (path "/0de452c1-c2d3-4d1a-b78a-15cceb3751d2"
       (reference "C5") (unit 1) (value "100nF") (footprint "rumblesan-standard-parts:C_Rect_L7.0mm_W3.5mm_P5.00mm")
@@ -9147,10 +9147,10 @@
       (reference "C20") (unit 1) (value "100pF") (footprint "rumblesan-standard-parts:C_Rect_L7.0mm_W3.5mm_P5.00mm")
     )
     (path "/ad4c3087-473c-478a-8ad4-a1491b332c93/8e05464c-6ddb-45f0-a810-9a3b853897d8"
-      (reference "C21") (unit 1) (value "1uF") (footprint "rumblesan-standard-parts:CP_Radial_D5.0mm_P2.00mm")
+      (reference "C21") (unit 1) (value "10uF") (footprint "rumblesan-standard-parts:CP_Radial_D5.0mm_P2.00mm")
     )
     (path "/ad4c3087-473c-478a-8ad4-a1491b332c93/09fde542-3167-43f5-a315-cf966de10fd0"
-      (reference "C22") (unit 1) (value "1uF") (footprint "rumblesan-standard-parts:CP_Radial_D5.0mm_P2.00mm")
+      (reference "C22") (unit 1) (value "10uF") (footprint "rumblesan-standard-parts:CP_Radial_D5.0mm_P2.00mm")
     )
     (path "/ad4c3087-473c-478a-8ad4-a1491b332c93/e7127e9e-59ba-43a9-9501-cbea73a5bb0a"
       (reference "C23") (unit 1) (value "100nF") (footprint "rumblesan-standard-parts:C_Rect_L7.0mm_W3.5mm_P5.00mm")
@@ -9357,7 +9357,7 @@
       (reference "R11") (unit 1) (value "1m") (footprint "rumblesan-standard-parts:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
     (path "/963dd436-ddf3-4162-9f66-c28717ca731d"
-      (reference "R12") (unit 1) (value "220k") (footprint "rumblesan-standard-parts:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
+      (reference "R12") (unit 1) (value "100k") (footprint "rumblesan-standard-parts:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
     (path "/551bcd8e-03fa-4a5d-a22b-e038948336fc"
       (reference "R13") (unit 1) (value "10k") (footprint "rumblesan-standard-parts:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
@@ -9366,7 +9366,7 @@
       (reference "R14") (unit 1) (value "150k") (footprint "rumblesan-standard-parts:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
     (path "/33c83fc5-c4d0-450d-8557-408764e81e50"
-      (reference "R15") (unit 1) (value "22k") (footprint "rumblesan-standard-parts:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
+      (reference "R15") (unit 1) (value "4k7") (footprint "rumblesan-standard-parts:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
     (path "/2eeac2dd-822d-48a2-8f8a-2fe3eb0d1b17"
       (reference "R16") (unit 1) (value "100k") (footprint "rumblesan-standard-parts:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
@@ -9534,10 +9534,10 @@
       (reference "R70") (unit 1) (value "220r") (footprint "rumblesan-standard-parts:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
     (path "/32f36dff-8662-485b-aca6-8ee96ddb3fbd/06d71e33-f77c-4bc4-8a4f-6532c1f037b7"
-      (reference "R71") (unit 1) (value "33k") (footprint "rumblesan-standard-parts:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
+      (reference "R71") (unit 1) (value "68k") (footprint "rumblesan-standard-parts:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
     (path "/32f36dff-8662-485b-aca6-8ee96ddb3fbd/4a39f7d1-4843-4924-b280-b77be7d7ddd6"
-      (reference "R72") (unit 1) (value "10k") (footprint "rumblesan-standard-parts:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
+      (reference "R72") (unit 1) (value "33k") (footprint "rumblesan-standard-parts:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
     (path "/c98fd5d1-af33-4d9b-9a1e-6ae175673044"
       (reference "R73") (unit 1) (value "22k") (footprint "rumblesan-standard-parts:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
