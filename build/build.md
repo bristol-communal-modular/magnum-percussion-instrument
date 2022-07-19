@@ -33,6 +33,8 @@ The Cap on the DPDT switch being used has been tricky to find a part number for.
 
 The piezo can be attached to the faceplate by soldering it onto the metal patch. Be careful when doing this, and when soldering wires onto the piezo discs as they can be quite delicate. Using flux is a good idea.
 
+The *partnumbers.csv* file in this folder has partnumbers for most components, along with mouser order numbers and notes on what's probably better to get from Thonk.
+
 ## Part Choices
 
 There are really only two places part choices are important.
