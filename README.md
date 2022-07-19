@@ -14,6 +14,9 @@ Specifically :-
 
 Many thanks to the people that designed those and made them open.
 
+## Building
+
+In the *build* folder there's an html BOM file, along with a CSV file that has part numbers for most components. Read the build.md file in there for more information. If you're reading this on GitHub and are unsure how to easily get these files, then [use this link](https://github.com/bristol-communal-modular/magnum-percussion-instrument/archive/refs/heads/main.zip)
 
 ## Spec
 
