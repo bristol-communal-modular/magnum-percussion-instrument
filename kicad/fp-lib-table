@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name "magnum-graphics")(type "KiCad")(uri "${KIPRJMOD}/magnum-graphics.pretty")(options "")(descr ""))
+  (lib (name "magnum-panel")(type "KiCad")(uri "${KIPRJMOD}/magnum-panel.pretty")(options "")(descr ""))
 )
