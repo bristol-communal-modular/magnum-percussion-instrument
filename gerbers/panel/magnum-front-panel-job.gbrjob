@@ -5,17 +5,17 @@
       "Application": "Pcbnew",
       "Version": "(6.0.6-0)"
     },
-    "CreationDate": "2022-08-31T18:23:36+01:00"
+    "CreationDate": "2022-09-03T16:06:48+01:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "magnum-front-panel",
       "GUID": "6d61676e-756d-42d6-9672-6f6e742d7061",
-      "Revision": "r03"
+      "Revision": "r04"
     },
     "Size": {
-      "X": 101.44,
-      "Y": 128.653
+      "X": 101.4,
+      "Y": 128.6
     },
     "LayerNumber": 2,
     "BoardThickness": 1.6,
@@ -24,8 +24,8 @@
   "DesignRules": [
     {
       "Layers": "Outer",
-      "PadToPad": 0.0,
-      "PadToTrack": 0.0,
+      "PadToPad": 0.2,
+      "PadToTrack": 0.2,
       "TrackToTrack": 0.2
     }
   ],
