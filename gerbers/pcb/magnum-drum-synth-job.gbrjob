@@ -5,13 +5,13 @@
       "Application": "Pcbnew",
       "Version": "(6.0.6-0)"
     },
-    "CreationDate": "2022-06-29T09:24:31+01:00"
+    "CreationDate": "2022-10-16T09:48:13+01:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "magnum-drum-synth",
       "GUID": "6d61676e-756d-42d6-9472-756d2d73796e",
-      "Revision": "r03"
+      "Revision": "r04"
     },
     "Size": {
       "X": 202.05,
