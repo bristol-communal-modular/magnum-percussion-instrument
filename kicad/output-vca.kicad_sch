@@ -6,8 +6,8 @@
 
   (title_block
     (title "Magnum Percussion Instrument")
-    (date "2022-06-15")
-    (rev "r03")
+    (date "2022-09-29")
+    (rev "r04")
     (comment 2 "creativecommons.org/licenses/by/4.0/")
     (comment 3 "License: CC BY 4.0")
     (comment 4 "Author: Guy John")
@@ -702,7 +702,7 @@
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 06d71e33-f77c-4bc4-8a4f-6532c1f037b7)
     (property "Reference" "R71" (id 0) (at 154.94 62.5942 90))
-    (property "Value" "68k" (id 1) (at 154.94 65.1311 90))
+    (property "Value" "100k" (id 1) (at 154.94 65.1311 90))
     (property "Footprint" "rumblesan-standard-parts:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" (id 2) (at 154.94 69.088 90)
       (effects (font (size 1.27 1.27)) hide)
     )
