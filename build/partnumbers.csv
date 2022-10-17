@@ -38,8 +38,16 @@ switch,dpdt,on-on small pushbutton,1,,,mhps2285,642-MHPS2285,,hackspace
 transistor,2n3904,,5,,,2n3904,512-2N3904BU,,
 transistor,2n3906,,4,,,2n3906,512-2N3906BU,,
 trimmer,100k,single turn,1,,,3306p-1-104,652-3306P-1-104,,
+connector,mini jumper,,2,,,SX1100-B,806-SX1100-B,,
 
 connector,eurorack power small,,1,,,61201021621,710-61201021621,,thonk
+connector,DIP 8 IC socket,,2,,,DILB8P-223TLF,649-DILB8P223TLF,,thonk
+connector,DIP 14 IC socket,,2,,,DILB14P-223TLF,649-DILB14P-223TLF,,thonk
+connector,DIP 16 IC socket,,3,,,DILB16P-223TLF,649-DILB16P-223TLF,,thonk
+
+
+hardware,standoff,11mm f-f,2,,,970110321,710-970110321,,
+hardware,screw,m3,4,,,,,,
 
 socket,eurorack mono jack,,4,,,wqp-pj398sm,,,thonk
 potentiometer,100kb,,5,,,rd901f-40-15k-b100k,,,thonk

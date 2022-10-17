@@ -2,20 +2,14 @@
 
 The build of the Magnum *should* be relatively straight forward. Just populate the boards, put them together, make sure the normalling and output level headers have jumpers, and then that should be everything.
 
-That said, the following information will probably be useful. Eventually there will be a full picture guide, but for the time being you'll just have to pay attention.
+That said, the following information will probably be useful.
 
 ## Extra Parts
 
 There are a couple of parts that are required to build the magnum that aren't listed in the BOM.
 
-* 1 8 pin DIP IC Socket
-* 2 14 pin DIP IC Sockets
-* 3 16 pin DIP IC Sockets
-* 2 jumpers
 * A cap for the DPDT push switch (no idea on part number yet sorry)
-* A 25mm diameter piezo
 * Some red and black wire to connect the piezo to the board
-* 2 11mm standoffs
 * 4 M3 screws to use with the standoffs
 * Some knobs for the controls
 * A eurorack power cable
@@ -24,12 +18,14 @@ There are a couple of parts that are required to build the magnum that aren't li
 
 Most of the parts needed are pretty standard and can be found on Mouser, Farnell, Digikey, etc. There's a couple things worth noting.
 
-The LM13700 DIP chips are getting trickier to find as they've been End Of Lifed. [Thonk](https://www.thonk.co.uk/shop/lm13700/) has them, as do a few other smaller synth oriented shops.
+Potentiometers are probably best to get from Thonk.
+
+The LM13700 DIP chips are getting trickier to find as they've been End Of Life-d. [Thonk](https://www.thonk.co.uk/shop/lm13700/) has them, as do a few other smaller synth oriented shops.
 
 The inter-board connectors can be found at mouser in the right sizes, but Thonk has cheaper alternatives if you're willing to cut them down. They're also good for the standoffs and various other bits.
 [https://www.thonk.co.uk/shop/eurorack-diy-essentials/](https://www.thonk.co.uk/shop/eurorack-diy-essentials/)
 
-The Cap on the DPDT switch being used has been tricky to find a part number for. Currently we're using the large number available at the Bristol Hackspace, but will need to figure something out eventually. For the time being either grab one from the hackspace, or find something about the right size and use some glue maybe?
+The Cap on the DPDT switch being used has been tricky to find a part number for. Currently we're using the large number available at the Bristol Hackspace, but will need to figure something out eventually. There do seem to be plenty of suitable ones available on eBay. Have a search for "Self locking push button caps".
 
 The piezo can be attached to the faceplate by soldering it onto the metal patch. Be careful when doing this, and when soldering wires onto the piezo discs as they can be quite delicate. Using flux is a good idea.
 
