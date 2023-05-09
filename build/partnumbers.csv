@@ -1,43 +1,43 @@
 parttype,value,spec,quantity,info,order code,part number,mouser,farnell,other
-capacitor,22pf,ceramic c0g,3,,,fg28c0g1h220jnt06,810-FG28C0G1H220JNT0,,
-capacitor,100pf,film polypropylene,4,,,fkp2d001001d00jssd,505-FKP2100/100/5,,
-capacitor,10nf,ceramic c0g,2,,,fg28c0g1h103jnt06,810-FG28C0G1H103JNT0,,
-capacitor,47nf,ceramic c0g,2,,,fg26c0g1h473jnt06,810-FG26C0G1H473JNT6,,
-capacitor,100nf,ceramic x7r,15,,,k104k15x7rf53h5,594-K104K15X7RF53H5,,
-capacitor,220nf,ceramic x7r,1,,,k224k20x7rf5uh5,594-K224K20X7RF5UH5,,
-capacitor,1uf,electrolytic,4,,,uvr2a010mdd,647-UVR2A010MDD,,
-capacitor,1uf,electrolytic non polarised,1,,,uvp1h010mdd,647-UVP1H010MDD,,
-capacitor,10uf,electrolytic,4,,,uvr1h100mdd,647-UVR1H100MDD,,
 diode,1n4148,,6,,,1n4148,512-1N4148,,
 diode,1n5818,,2,,,1n5818,833-1N5818-TP,,
-hardware,piezo,27mm,1,,,ae-2746e-n1,253-AE2746EN1,,
-logic,cd4093,,1,,,cd4093be,595-CD4093BE,,
-opamp,lm13700,,3,,,lm13700n/nopb,926-LM13700N/NOPB,,thonk or anywhere else
-opamp,tl072,,2,,,tl072ip,595-TL072IP,3117794,thonk
-opamp,tl074,,1,,,tl074cn,595-TL074CN,,
+resistor,100k,metal film,22,,,mfr50sfte52-100k,603-MFR50SFTE52-100K,,
 resistor,220r,metal film,10,,,mfr50sfte52-220r,603-MFR50SFTE52-220R,,
+resistor,10k,metal film,7,,,mfr50sfte52-10k,603-MFR50SFTE52-10K,,
+resistor,22k,metal film,7,,,mfr50sfte52-22k,603-MFR50SFTE52-22K,,
 resistor,470r,metal film,4,,,mfr-50sfrf52470r,603-MFR-50SFRF52470R,,
-resistor,22r,metal film,1,,,mfr50sfte52-22r,603-MFR50SFTE52-22R,,
-resistor,47r,metal film,1,,,mfr50sfte52-47r,603-MFR50SFTE52-47R,,
 resistor,1k,metal film,3,,,mfr50sfte52-1k,603-MFR50SFTE52-1K,,
-resistor,2k,metal film,1,,,mfr50sfte52-2k,603-MFR50SFTE52-2K,,
-resistor,4k7,metal film,2,,,mfr50sfte52-4k7,603-MFR50SFTE52-4K7,,
-resistor,6k8,metal film,1,,,mfr50sfte52-6k8,603-MFR50SFTE52-6K8,,
-resistor,10k,metal film,9,,,mfr50sfte52-10k,603-MFR50SFTE52-10K,,
-resistor,22k,metal film,8,,,mfr50sfte52-22k,603-MFR50SFTE52-22K,,
-resistor,27k,metal film,1,,,mfr50sfte52-27k,603-MFR50SFTE52-27K,,
-resistor,33k,metal film,2,,,mfr50sfte52-33k,603-MFR50SFTE52-33K,,
 resistor,47k,metal film,3,,,mfr50sfte52-47k,603-MFR50SFTE52-47K,,
-resistor,82k,metal film,1,,,mfr50sfte52-82k,603-MFR50SFTE52-82K,,
-resistor,100k,metal film,23,,,mfr50sfte52-100k,603-MFR50SFTE52-100K,,
-resistor,120k,metal film,1,,,mfr50sfte52-120k,603-MFR50SFTE52-120K,,
+resistor,33k,metal film,2,,,mfr50sfte52-33k,603-MFR50SFTE52-33K,,
+resistor,4k7,metal film,2,,,mfr50sfte52-4k7,603-MFR50SFTE52-4K7,,
+resistor,220k,metal film,2,,,mfr50sfte52-220k,603-MFR50SFTE52-220K,,
 resistor,150k,metal film,1,,,mfr50sfte52-150k,603-MFR50SFTE52-150K,,
-resistor,220k,metal film,1,,,mfr50sfte52-220k,603-MFR50SFTE52-220K,,
+resistor,2k,metal film,1,,,mfr50sfte52-2k,603-MFR50SFTE52-2K,,
+resistor,120k,metal film,1,,,mfr50sfte52-120k,603-MFR50SFTE52-120K,,
+resistor,47r,metal film,1,,,mfr50sfte52-47r,603-MFR50SFTE52-47R,,
+resistor,27k,metal film,1,,,mfr50sfte52-27k,603-MFR50SFTE52-27K,,
+resistor,6k8,metal film,1,,,mfr50sfte52-6k8,603-MFR50SFTE52-6K8,,
 resistor,1m,metal film,2,,,mfr50sfte52-1m,603-MFR50SFTE52-1M,,
+capacitor,100nf,ceramic x7r,14,,,k104k15x7rf53h5,594-K104K15X7RF53H5,,
+capacitor,1uf,electrolytic,4,,,uvr2a010mdd,647-UVR2A010MDD,,
+capacitor,10uf,electrolytic,4,,,uvr1h100mdd,647-UVR1H100MDD,,
+capacitor,100pf,film polypropylene,4,,,fkp2d001001d00jssd,505-FKP2100/100/5,,
+capacitor,22pf,ceramic c0g,3,,,fg28c0g1h220jnt06,810-FG28C0G1H220JNT0,,
+capacitor,47nf,ceramic c0g,2,,,fg26c0g1h473jnt06,810-FG26C0G1H473JNT6,,
+capacitor,10nf,ceramic c0g,2,,,fg28c0g1h103jnt06,810-FG28C0G1H103JNT0,,
+capacitor,220nf,ceramic x7r,1,,,k224k20x7rf5uh5,594-K224K20X7RF5UH5,,
+capacitor,1uf,electrolytic non polarised,1,,,uvp1h010mdd,647-UVP1H010MDD,,
+opamp,lm13700,,3,,,lm13700n/nopb,926-LM13700N/NOPB,,thonk or anywhere else
+opamp,tl074,,2,,,tl074cn,595-TL074CN,,
+opamp,tl072,,1,,,tl072ip,595-TL072IP,3117794,thonk
+logic,cd4093,,1,,,cd4093be,595-CD4093BE,,
+transistor,2n3904,,3,,,2n3904,512-2N3904BU,,
+transistor,2n3906,,3,,,2n3906,512-2N3906BU,,
+trimmer,100kB,single turn,1,,,3306p-1-104,652-3306P-1-104,,
+trimmer,1mB,single turn,1,,,3306p-1-105,652-3306P-1-105,,
+hardware,piezo,27mm,1,,,ae-2746e-n1,253-AE2746EN1,,
+
 switch,dpdt,on-on small pushbutton,1,,,mhps2285,642-MHPS2285,,hackspace
-transistor,2n3904,,5,,,2n3904,512-2N3904BU,,
-transistor,2n3906,,4,,,2n3906,512-2N3906BU,,
-trimmer,100k,single turn,1,,,3306p-1-104,652-3306P-1-104,,
 connector,mini jumper,,2,,,SX1100-B,806-SX1100-B,,
 
 connector,eurorack power small,,1,,,61201021621,710-61201021621,,thonk
@@ -45,8 +45,7 @@ connector,DIP 8 IC socket,,2,,,DILB8P-223TLF,649-DILB8P223TLF,,thonk
 connector,DIP 14 IC socket,,2,,,DILB14P-223TLF,649-DILB14P-223TLF,,thonk
 connector,DIP 16 IC socket,,3,,,DILB16P-223TLF,649-DILB16P-223TLF,,thonk
 
-
-hardware,standoff,11mm f-f,2,,,970110321,710-970110321,,
+hardware,standoff,11mm f-f,2,,,970110321,710-970110321,,thonk
 hardware,screw,m3,4,,,,,,
 
 socket,eurorack mono jack,,4,,,wqp-pj398sm,,,thonk
@@ -55,10 +54,8 @@ potentiometer,100ka,,3,,,rd901f-40-15k-a100k,,,thonk
 potentiometer,1ma,trimpot,2,,,rd901f-40-15k-a1m,,,thonk
 potentiometer,50kb,,1,,,rd901f-40-15k-b50k,,,thonk
 
-connector,conn_01x04_header,,3,,,tsw-104-14-t-s,200-TSW10414TS,,thonk
-connector,conn_01x04_socket,,3,,,ssq-104-01-t-s,200-SSQ10401TS,,thonk
-connector,conn_01x02_header,,2,,,tsw-102-14-t-s,200-TSW10214TS,,thonk
-connector,conn_01x02_socket,,2,,,ssq-102-01-t-s,200-SSQ10201TS,,thonk
+connector,conn_02x10_header,,1,,,tsw-110-14-t-d,200-TSW11014TD,,thonk
+connector,conn_02x10_socket,,1,,,ssq-110-01-t-d,200-SSQ11001TD,,thonk
+connector,conn_01x04_header,,1,,,tsw-110-14-t-d,200-TSW11014TD,,thonk
+connector,conn_01x04_socket,,1,,,ssq-104-01-t-s,200-SSQ10401TS,,thonk
 connector,conn_01x03_header,,2,,,tsw-103-14-t-s,200-TSW10314TS,,thonk
-connector,conn_01x06_header,,2,,,tsw-106-14-t-s,200-TSW10614TS,,thonk
-connector,conn_01x06_socket,,2,,,ssq-106-01-t-s,200-SSQ10601TS,,thonk
