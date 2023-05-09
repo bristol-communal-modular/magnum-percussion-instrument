@@ -64,4 +64,12 @@ Finally, when soldering resistors and diodes in, it's often easier to solder the
 
 ## Calibration
 
-The sensitivity of the piezo tap trigger can be adjusted using the trimmer. There's no other calibration to perform.
+There are two trimmers that can be used for calibration.
+
+### Piezo Sensitivity
+
+RV1 which is situated on the control board and is accesible via the small hole in the PCB can be used to adjust the sensitivity of the piezo trigger circuit. If you find you have to hit the panel harder than you like, or the magnum triggers too easily, then this board can be used to adjust the responsiveness.
+
+### Noise Level
+
+The noise of the magnum is generated using transistor Q1, but because of the natural variance between parts it may be too quiet or too loud at maximum volume. RV2 allows adjusting this.
